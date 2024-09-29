@@ -1,5 +1,5 @@
 # bb-oldassignmentcenter
-![Static Badge](https://img.shields.io/badge/Greasyfork-red?link=https%3A%2F%2Fgreasyfork.org%2Fen%2Fscripts%2F510811-blackbaud-old-assignment-center)
+**[Greasyfork Page](https://greasyfork.org/en/scripts/510811-blackbaud-old-assignment-center)**
 
 Simple userscript to redirect users to the old and better Blackbaud assignment center.
 
