@@ -12,7 +12,7 @@ Simple userscript to redirect users to the old and better Blackbaud assignment c
 3. Press the Install button
 
 ## Using Userscript
-1. Navigate to Assignment Center on the [myschoolapp](https://app.blackbaud.com] website
+1. Navigate to Assignment Center on the myschoolapp website
 
 ## Authors
 
