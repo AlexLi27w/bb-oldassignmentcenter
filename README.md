@@ -10,7 +10,7 @@ Simple userscript to redirect users to the old and better Blackbaud assignment c
 ## Installation using Userscript 
 
 1. Install a Userscript Manager: [Tampermonkey](https://www.tampermonkey.net) or [Violentmonkey](https://violentmonkey.github.io/get-it/)
-2. Go to the latest [bb-oldassignmentcenter.user.js](https://github.com/AlexLi27w/bb-oldassignmentcenter/releases/latest) file
+2. Open the latest [bb-oldassignmentcenter.user.js](https://github.com/AlexLi27w/bb-oldassignmentcenter/releases/latest) file
 3. Press the Install button
 
 ## Using Userscript
